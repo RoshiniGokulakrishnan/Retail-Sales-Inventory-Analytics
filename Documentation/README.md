@@ -1,12 +1,12 @@
-Retail – Sales \& Inventory Analytics
+Retail – Sales & Inventory Analytics
 
-1\. Project Overview
+1. Project Overview
 
 This end-to-end retail analytics project focuses on analysing sales performance, customer purchasing behaviour, product performance, inventory availability and supplier efficiency.
 
 The objective is to transform raw retail data into actionable business insights using SQL, Excel and Power BI.
 
-2\. Business Objectives
+2. Business Objectives
 
 •	Analyse sales trends and revenue performance.
 
@@ -20,7 +20,7 @@ The objective is to transform raw retail data into actionable business insights 
 
 •	Analyse supplier lead times and operational efficiency.
 
-3\. Tools \& Technologies
+3. Tools & Technologies
 
 •	SQL – Data querying, validation and analysis.
 
@@ -28,11 +28,11 @@ The objective is to transform raw retail data into actionable business insights 
 
 •	Power BI – Data modelling, DAX measures and interactive dashboards.
 
-4\. Project Folder Structure
+4. Project Folder Structure
 
-•	Raw\_Data – Original dataset files.
+•	Raw_Data – Original dataset files.
 
-•	Excel\_Analysis – Excel analysis workbook.
+•	Excel_Analysis – Excel analysis workbook.
 
 •	SQL – SQL queries and validation scripts.
 
@@ -42,7 +42,7 @@ The objective is to transform raw retail data into actionable business insights 
 
 •	Documentation – README and project documentation.
 
-5\. Dataset Structure
+5. Dataset Structure
 
 The project uses six related tables:
 
@@ -54,23 +54,23 @@ The project uses six related tables:
 
 •	Suppliers
 
-•	Order\_items
+•	Order_items
 
-•	Product\_supplier
+•	Product_supplier
 
-6\. Power BI Dashboard
+6. Power BI Dashboard
 
 The report contains four pages:
 
-1\.	Sales Performance – Annual and monthly sales trends and revenue analysis.
+1.	Sales Performance – Annual and monthly sales trends and revenue analysis.
 
-2\.	Customer \& Product Performance – Customer purchasing behaviour and product category performance.
+2.	Customer & Product Performance – Customer purchasing behaviour and product category performance.
 
-3\.	Inventory \& Supplier Performance – Stock availability, inventory levels and supplier lead-time analysis.
+3.	Inventory & Supplier Performance – Stock availability, inventory levels and supplier lead-time analysis.
 
-4\.	Inventory Exception Analysis – Low-stock products and products with missing stock information.
+4.	Inventory Exception Analysis – Low-stock products and products with missing stock information.
 
-7\. Key Business Findings
+7. Key Business Findings
 
 •	Annual sales increased from approximately 153K in 2020 to 231K in 2023.
 
@@ -90,7 +90,7 @@ The report contains four pages:
 
 •	Supplier 9 had the longest average lead time, while Supplier 33 had the shortest.
 
-8\. Business Recommendations
+8. Business Recommendations
 
 •	Monitor sales trends and high-performing product categories.
 
@@ -104,7 +104,7 @@ The report contains four pages:
 
 •	Monitor supplier lead times and evaluate alternative suppliers where necessary.
 
-9\. Skills Demonstrated
+9. Skills Demonstrated
 
 •	SQL querying and data analysis
 
@@ -120,7 +120,7 @@ The report contains four pages:
 
 •	Data visualisation and reporting
 
-10\. Project Outcome
+10. Project Outcome
 
 Developed an interactive retail analytics dashboard connecting sales, customer, product, inventory and supplier analysis to improve business visibility and support informed operational decisions.
 
