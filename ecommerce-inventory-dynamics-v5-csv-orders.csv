@@ -1,0 +1,11 @@
+Quality check,Result
+Total orders,500
+Blank cells,49
+Duplicate Order IDs,0
+Valid Customer ID links,500
+Unmatched Customer IDs,0
+Valid order dates,500
+Missing total amounts,49
+Non-numeric total amounts,0
+Valid shipping costs,500
+Valid discount amounts,500

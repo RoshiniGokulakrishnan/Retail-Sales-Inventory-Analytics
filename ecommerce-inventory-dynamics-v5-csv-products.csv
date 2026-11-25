@@ -1,0 +1,10 @@
+Quality check,Valid / Complete,Invalid,Blank
+Category,180,0,20
+Stock level,180,0,20
+Price,178,0,22
+Created date,200,0,0
+Other checks,Result,,
+Total product records,200,,
+Blank cells reported,62,,
+Blank Product IDs,0,,
+Blank Product Names,0,,

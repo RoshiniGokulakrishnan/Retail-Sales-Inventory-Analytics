@@ -1,0 +1,22 @@
+Check,Result
+Numeric unit prices,"1,121"
+Minimum price,1
+Maximum price,497.64
+Missing values,0
+Non-numeric values,0
+,
+Order_items.csv — Profiling summary,
+,
+Quality check,Result
+Total records,"1,121"
+Blank cells,115
+Duplicate Item IDs,0
+Unique Item IDs,"1,121"
+Missing quantities,115
+Zero quantities,27
+Negative quantities,0
+Missing discounts,0
+Negative discounts,0
+Missing unit prices,0
+Invalid Order ID links,0
+Invalid Product ID links,0
